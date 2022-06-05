@@ -1,0 +1,8 @@
+C:\Users\mathe\Downloads\Csharp-alura\csharp\aula6\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.exe.config
+C:\Users\mathe\Downloads\Csharp-alura\csharp\aula6\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.exe
+C:\Users\mathe\Downloads\Csharp-alura\csharp\aula6\P13-LacoDeRepeticaoFor3\bin\Debug\P13-LacoDeRepeticaoFor3.pdb
+C:\Users\mathe\Downloads\Csharp-alura\csharp\aula6\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.csproj.AssemblyReference.cache
+C:\Users\mathe\Downloads\Csharp-alura\csharp\aula6\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Downloads\Csharp-alura\csharp\aula6\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\Csharp-alura\csharp\aula6\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.exe
+C:\Users\mathe\Downloads\Csharp-alura\csharp\aula6\P13-LacoDeRepeticaoFor3\obj\Debug\P13-LacoDeRepeticaoFor3.pdb
